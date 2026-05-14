@@ -25,24 +25,18 @@
 
 <table align="center" width="100%">
   <tr><th width="25%">Area</th><th width="55%">Technologies</th><th width="20%">Level</th></tr>
-  <tr><td><b>Languages & Environment</b></td><td>Python, C++, JavaScript, Linux, Bash</td><td>Python — Advanced<br>C++/JS — Basics</td>
-  <tr>
-  <tr><td><b>ML & Deep Learning</b></td><td>PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM</td><td>PyTorch — Experienced<br>Scikit-learn — Experienced<br>TensorFlow — Working knowledge<br>XGBoost/LightGBM — Confident</td>
-  </tr>
-  <tr><td><b>Data & Visualization</b></td><td>Pandas, NumPy, Matplotlib, Seaborn, SQL</td><td>Pandas/NumPy — Advanced<br>Matplotlib/Seaborn — Confident<br>SQL — Basics</td>
-  </tr>
-  <tr><td><b>MLOps & Tools</b></td><td>FastAPI, Docker, Git/GitHub, CI/CD (basic), Linux admin</td><td>FastAPI — Confident<br>Docker/Git — Basics<br>CI/CD — basic understanding</td>
-  </tr>
-  <tr><td><b>NLP · LLM · CV</b></td><td>LLM (Qwen, Llama), RAG, OpenCV, Tesseract, Ollama, LangChain, Chroma/FAISS</td><td>LLM/RAG/OpenCV/Tesseract/Ollama — Confident / Hands‑on</td>
-  </tr>
-  <tr><td><b>Mathematics</b></td><td>Mathematical Analysis (Calculus), Linear Algebra, Probability & Statistics</td><td>Fundamentals / Growing</td>
-  </tr>
-  <tr><td><b>Additional tools (in progress/learning)</b></td><td>Optuna, MLflow / W&B, Docker Compose, ONNX / TensorRT, Streamlit</td><td>Learning / Basic familiarity</td>
-  </tr>
+  <tr><td><b>Languages & Environment</b></td><td>Python, C++, JavaScript, Linux, Bash</td><td>Python — Advanced<br>C++/JS — Basics</td></tr>
+  <tr><td><b>ML & Deep Learning</b></td><td>PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, CatBoost</td><td>PyTorch — Experienced<br>Scikit-learn — Experienced<br>TensorFlow — Working knowledge<br>XGBoost/LightGBM/CatBoost — Confident</td></tr>
+  <tr><td><b>Data & Visualization</b></td><td>Pandas, NumPy, Matplotlib, Seaborn, SQL</td><td>Pandas/NumPy — Advanced<br>Matplotlib/Seaborn — Confident<br>SQL — Basics</td></tr>
+  <tr><td><b>MLOps & Tools</b></td><td>FastAPI, Docker, Git/GitHub, CI/CD, Linux admin</td><td>FastAPI — Confident<br>Docker/Git — Basics<br>CI/CD — basic understanding</td></tr>
+  <tr><td><b>NLP · LLM · CV</b></td><td>LLM, RAG, OpenCV, Tesseract, Ollama, LangChain, Chroma/FAISS, Hugging Face, Transformers</td><td>LLM/RAG/OpenCV/Tesseract/Ollama — Confident / Hands‑on<br>Hugging Face/Transformers — Working knowledge</td></tr>
+  <tr><td><b>Mathematics</b></td><td>Mathematical Analysis, Linear Algebra, Probability & Statistics</td><td>Fundamentals / Growing</td></tr>
+  <tr><td><b>Additional tools (in progress/learning)</b></td><td>Optuna, MLflow / W&B, Docker Compose, ONNX / TensorRT, Streamlit</td><td>Learning / Basic familiarity</td></tr>
 </table>
 
 
 ---
+
 
 <h3 align="center">Languages</h3>
 
