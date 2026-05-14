@@ -74,9 +74,6 @@
   </picture>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=006400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=ML+Engineer;Data+Scientist" alt="Typing SVG" />
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kirill-code-ai&style=for-the-badge&color=006400&label=VISITORS&abbreviated=true" />
