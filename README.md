@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=006400&center=true&vCenter=true&random=false&width=500&lines=%3E+LOADING+KIRILL-CODE-AI...;%3E+ML+ENGINEER+/+DATA+SCIENTIST+ONLINE" alt="Boot screen" />
-</p>
+<div style="width: 100%; aspect-ratio: 16 / 9; overflow: hidden;">
+  <img src="assets/photo.png" style="width: 100%; height: 100%; object-fit: cover;" alt="Full width photo">
+</div>
+
+
+---
 
 <h3 align="center">Kirill Ivanov · Moscow · RTU MIREA</h3>
 
@@ -54,7 +57,7 @@
 <h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=006400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=ML+Engineer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=006400&center=true&vCenter=true&random=false&width=500&lines=%3E+LOADING+KIRILL-CODE-AI...;%3E+ML+ENGINEER+/+DATA+SCIENTIST+ONLINE" alt="Boot screen" />
 </p>
 
 <div align="center">
@@ -71,11 +74,14 @@
   </picture>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=006400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=ML+Engineer;Data+Scientist" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kirill-code-ai&style=for-the-badge&color=006400&label=VISITORS&abbreviated=true" />
 </div>
 
 <p align="center">
-  <i>“Every day I overfit my dreams and generalize my actions.”</i><br>
-  <b style="color: #006400;">Kirill-code-ai</b> — <i>No NaNs in my motivation.</i>
+  <i>“No NaNs in my motivation.”</i><br>
 </p>
