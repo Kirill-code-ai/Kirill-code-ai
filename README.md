@@ -17,7 +17,7 @@
 | 2025 | IV International Essay Contest "Social Networks in Youth Life" | Wrote an essay in English on social media: unifying space vs digital addiction | Solo participant | 1st Degree Diploma |
 | 2026 | MTS True Tech Hack | Improving Lua code validation accuracy; added RAM constraints, worked with metrics, created C4 diagram | ML Engineer (team of 3) | Participant |
 | 2026 | Find Yourself in Big Data | Reading personal data from images and videos, wrote main architecture, reducing false positives | Python Developer (team of 2) | Participant |
-| 2026 | X5 growth gradient First‑Round | Turnover forecasting, data cleaning, feature generation | Data Scientist (team of 3) | Stage 1 successfully completed |
+| 2026 | X5 growth gradient First‑Round | Turnover forecasting, data cleaning, feature generation | Data Scientist (team of 3) | Stage 1 successfully completed (Top 13 out of 350 teams) |
 | 2026 | Lenta Tech Life Hack | Built backend pipeline for receipt OCR & parsing, data cleaning; deployed with FastAPI + Docker  | Backend/Data Analyst (team of 3) | Participant |
 
 ---
