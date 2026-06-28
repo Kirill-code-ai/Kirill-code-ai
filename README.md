@@ -19,6 +19,7 @@
 | 2026 | Find Yourself in Big Data | Reading personal data from images and videos, wrote main architecture, reducing false positives | Python Developer (team of 2) | Participant |
 | 2026 | X5 growth gradient First‑Round | Turnover forecasting, data cleaning, feature generation | Data Scientist (team of 3) | Stage 1 successfully completed (Top 13 out of 350 teams) |
 | 2026 | ArenaData | Created a data extractor, did the architecture, and was a team lead | Python Developer (team of 3) | Top 6 |
+| 2026 | X5 growth gradient Second‑Round | Improving and refining the code for the first round | Data Scientist (team of 3) | Top 23 out of 300 teams |
 
 ---
 
