@@ -48,33 +48,7 @@
 </p>
 
 
----
-
-<h3 align="center">GitHub Statistics</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=006400&center=true&vCenter=true&random=false&width=500&lines=%3E+LOADING+KIRILL-CODE-AI...;%3E+ML+ENGINEER+/+DATA+SCIENTIST+ONLINE" alt="Boot screen" />
-</p>
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kirill-code-ai&theme=github-dark&bg_color=0D1117&color=006400&line=006400&point=FFFFFF&area=true&hide_border=true&grid=0"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kirill-code-ai&theme=github-light&bg_color=ffffff&color=004d00&line=004d00&point=000000&area=true&hide_border=true&grid=0"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirill-code-ai&theme=github-dark&bg_color=0D1117&color=006400&line=006400&point=FFFFFF&area=true&hide_border=true&grid=0" />
-  </picture>
-</div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kirill-code-ai&style=for-the-badge&color=006400&label=VISITORS&abbreviated=true" />
 </div>
-
-<p align="center">
-  <i>“No NaNs in my motivation.”</i><br>
-</p>
